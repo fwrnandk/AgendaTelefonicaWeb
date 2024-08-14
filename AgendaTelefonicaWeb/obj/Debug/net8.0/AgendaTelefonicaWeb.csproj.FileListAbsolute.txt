@@ -1,0 +1,7 @@
+C:\Users\brupe\source\repos\AgendaTelefonicaWeb\AgendaTelefonicaWeb\obj\Debug\net8.0\AgendaTelefonicaWeb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\brupe\source\repos\AgendaTelefonicaWeb\AgendaTelefonicaWeb\obj\Debug\net8.0\AgendaTelefonicaWeb.AssemblyInfoInputs.cache
+C:\Users\brupe\source\repos\AgendaTelefonicaWeb\AgendaTelefonicaWeb\obj\Debug\net8.0\AgendaTelefonicaWeb.AssemblyInfo.cs
+C:\Users\brupe\source\repos\AgendaTelefonicaWeb\AgendaTelefonicaWeb\obj\Debug\net8.0\AgendaTelefonicaWeb.csproj.CoreCompileInputs.cache
+C:\Users\brupe\source\repos\AgendaTelefonicaWeb\AgendaTelefonicaWeb\obj\Debug\net8.0\AgendaTelefonicaWeb.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\brupe\source\repos\AgendaTelefonicaWeb\AgendaTelefonicaWeb\obj\Debug\net8.0\AgendaTelefonicaWeb.RazorAssemblyInfo.cache
+C:\Users\brupe\source\repos\AgendaTelefonicaWeb\AgendaTelefonicaWeb\obj\Debug\net8.0\AgendaTelefonicaWeb.RazorAssemblyInfo.cs

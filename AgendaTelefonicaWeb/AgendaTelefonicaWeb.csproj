@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Content Remove="Views\Contatos\Create.cshtml" />
+    <Content Remove="Views\Contatos\Delete.cshtml" />
+    <Content Remove="Views\Contatos\Details.cshtml" />
+    <Content Remove="Views\Contatos\Edit.cshtml" />
+    <Content Remove="Views\Contatos\Index.cshtml" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Compile Include="Views\Contatos\Create.cshtml" />
+    <Compile Include="Views\Contatos\Delete.cshtml" />
+    <Compile Include="Views\Contatos\Details.cshtml" />
+    <Compile Include="Views\Contatos\Edit.cshtml" />
+    <Compile Include="Views\Contatos\Index.cshtml" />
+  </ItemGroup>
+
+</Project>
